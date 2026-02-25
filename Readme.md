@@ -146,3 +146,16 @@ metrics = model.evaluate(X_test, y_test)
 
 ---
 
+## Citation
+
+**If you use X-ANFIS in your research or find this repository useful, please cite:**
+
+Khaled, Q., Kaymak, U., & Genga, L. (2026).
+Alternating Bi-Objective Optimization for Explainable Neuro-Fuzzy Systems.
+arXiv:2602.19253 [cs.LG].
+[https://doi.org/10.48550/arXiv.2602.19253](https://doi.org/10.48550/arXiv.2602.19253)
+
+
+
+---
+
